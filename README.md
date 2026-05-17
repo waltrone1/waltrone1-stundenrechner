@@ -103,8 +103,6 @@ waltrone1-stundenrechner/
     `-- waltrone1-stundenrechner-overview-add-day-dialog.png
 ```
 
-Place README screenshots in the `screenshots/` folder so the image links work correctly on GitHub.
-
 The main start file is:
 
 ```text
