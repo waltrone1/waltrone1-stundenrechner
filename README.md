@@ -8,14 +8,6 @@ The tool is designed for Windows users, admins, employees, part-time workers, mi
 
 ---
 
-## Screenshot
-
-![waltrone1 Stundenrechner – overview with add-day dialog](screenshots/waltrone1-stundenrechner-overview-add-day-dialog.png)
-
-The screenshot shows the main monthly overview together with the add-day dialog for work, vacation and sick-day entries.
-
----
-
 ## Features
 
 - Modern Windows desktop interface based on CustomTkinter
@@ -100,10 +92,8 @@ waltrone1-stundenrechner/
 |   `-- waltrone1-Stundenrechner.iss
 |
 `-- screenshots/
-    `-- waltrone1-stundenrechner-overview-add-day-dialog.png
+    `-- .gitkeep
 ```
-
-Place README screenshots in the `screenshots/` folder so the image links work correctly on GitHub.
 
 The main start file is:
 
